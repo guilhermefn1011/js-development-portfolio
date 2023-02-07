@@ -32,7 +32,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/Icons/calendar.svg');
+    background-image: url('../img/Icons/calendar.svg');
     margin-right: .5rem;
 }
 
@@ -47,6 +47,6 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/Icons/education.svg');
+    background-image: url('../img/Icons/education.svg');
     margin-right: .5rem;
 }

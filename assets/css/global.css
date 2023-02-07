@@ -27,7 +27,7 @@ a:hover {
 
 @font-face {
     font-family: 'Neue Machina';
-    src: url('/assets/fonts/neue-machina-regular.otf');
+    src: url('../fonts/neue-machina-regular.otf');
 }
 
 body {
@@ -44,7 +44,7 @@ body {
 
 .main::before {
     content: '';
-    background-image: url('/assets/img/blur-top.svg');
+    background-image: url('../img/blur-top.svg');
     background-repeat: no-repeat;
     position: fixed;
     top: 0;
@@ -57,7 +57,7 @@ body {
 
 .main::after {
     content: '';
-    background-image: url('/assets/img/blur-bottom.svg');
+    background-image: url('../img/blur-bottom.svg');
     background-repeat: no-repeat;
     position: fixed;
     bottom: 0;
