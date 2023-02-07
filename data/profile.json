@@ -43,7 +43,7 @@
     },
     "languages": [
       "Português BR",
-      "Inglês (intermediário)"
+      "Inglês (Avançado)"
     ],
     "portfolio": [
       {
@@ -57,21 +57,40 @@
         "github": true
       }
     ],
-    "professionalExperience": [
+     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Analista de Suporte Jr - Listo",
+        "period": "Jul 2021 - Mai 2022",
+        "description": "Solucionar incidentes, propor otimizações nos processos, realizar documentações de procedimentos e processos, administrar acessos de segurança e rede (AD) e admnistrar iventário de TI."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Trainee - Safra",
+        "period": "Jun 2022 - Jan 2023",
+        "description": "Realizar entregas de correções e atualizações de sistemas de terceiros em nosso ambiente, conduzir reuniões de entregas com o time de Negócio, desenvolvimento de projeto utilizando container, VueJs, Angular e Python."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Administrador - Outlet Feiras e Eventos LTDA",
+        "period": "Jun 2017 - Jun 2020",
+        "description": "Tomar decisões de marca, gerenciar custos e compras tanto estruturais quanto para insumos, responsável pela administração e logística."
+      }
+    ],
+
+    "education": [
+      {
+        "course":"MBA Engenharia de Software",
+        "institution": "IMPACTA",
+        "period": "Mar 2022 - Jun 2023"
+      },
+      {
+        "course":"Bacharelado Engenharia de Produção",
+        "institution": "FIAP",
+        "period": "Jan 2016 - Dez 2020"
+      },
+      {
+        "course":"Formação JavaScript Developer",
+        "institution": "DIO",
+        "period": "Jan 2023 - Fev 2023"
       }
     ]
+    
   }
