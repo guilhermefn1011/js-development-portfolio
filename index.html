@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Guilherme Fernandez</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
+        integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="/assets/css/global.css">
+    <link rel="stylesheet" href="/assets/css/header.css">
+    <link rel="stylesheet" href="/assets/css/acordeon.css">
+    <link rel="stylesheet" href="/assets/css/languages.css">
+    <link rel="stylesheet" href="/assets/css/portfolio.css">
+    <link rel="stylesheet" href="/assets/css/professional.css">
+    <link rel="stylesheet" href="/assets/css/skills.css">
+    <link rel="stylesheet" href="/assets/css/education.css">
+</head>
+
+<body>
+    <div class="main">
+        <header class="header">
+            <img src="/assets/img/user.png" alt="Foto de Perfil" class="photo" id="profile.photo">
+
+            <h1 class="title">
+                Olá, <br>eu sou <span id="profile.name">Carregando...</span> 
+            </h1>
+
+            <div class="coreInfo">
+                <p class="job" id="profile.job">Carregando...</p>
+                <p class="location" id="profile.location">Carregando...</p>
+                <p class="phone">
+                    <a href="tel:" id="profile.phone">Carregando...</a>
+                </p>
+                <p class="mail">
+                    <a href="mailto:guilhermefn1011@gmail.com" id="profile.email">Carregando...</a>
+                </p>
+            </div>
+        </header>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Idiomas</h2>
+            </button>
+
+            <div class="content">
+                <ul class="languages" id="profile.languages">
+                    <li>Carregando...</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Portfólio</h2> 
+            </button>
+
+            <div class="content">
+                <ul class="portfolio" id="profile.portfolio">
+                    <li>
+                        <h3>Carregando...</h3>
+                        <a href="" target="_blank">Caregando...</a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        
+        <section class="acordeon">
+            <button class="trigger" type="button">
+              <h2>Experiência Profissional</h2>
+            </button>
+
+            <div class="content">
+                <ul class="professional" id="profile.professionalExperience">
+                    <li>
+                        <h3 class="title">Carregando...</h3>
+                        <h4 class="period">Carregando...</h4>
+                        <p>Carregando...</p>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Habilidades</h2>
+            </button>
+
+            <div class="content">
+                <div class="skills">
+                    <section class="hardSkills">
+                        <h3>Hard Skills</h3>
+                        <ul id="profile.skills.hardSkills">
+                           <li>Carregando...</li>
+                           <li>Carregando...</li>
+                           <li>Carregando...</li>
+                        </ul>
+                    </section>
+
+                    <section class="softSkills">
+                        <h3>Soft Skills</h3>
+                        <ul id="profile.skills.softSkills">
+                            <li>Carregando...</li>
+                            <li>Carregando...</li>
+                            <li>Carregando...</li>
+                        </ul>
+                    </section>
+                </div>
+
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                <h2>Formação</h2>
+            </button>
+
+            <div class="content">
+                <ul class="education" id="profile.education">
+                    <li>
+                    <h3 class="course">Carregando...</h3>
+                    <h4 class="institution"><strong>Carregando...</strong></h4>
+                    <p class="period">Carregando...</p>
+                </li>
+                </ul>
+            </div>
+        </section>
+    </div>
+
+    <script src="/assets/js/acordeon.js"></script>
+    <script src="/assets/js/api.js"></script>
+    <script src="/assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    padding: 0;
+    list-style: none;
+}
+
+.education li {
+    margin-bottom: 2rem;
+}
+
+.education .course {
+    margin-bottom: .5rem;
+}
+
+.education .institution {
+    margin: 0;
+}
+
+.education li .period {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+} 
+
+.education .period::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/assets/img/Icons/calendar.svg');
+    margin-right: .5rem;
+}
+
+.education .period {
+    margin: 0;
+}
+
+.education .institution::before {
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/assets/img/Icons/education.svg');
+    margin-right: .5rem;
+}
