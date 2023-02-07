@@ -9,27 +9,27 @@
       "hardSkills": [
         {
           "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/guilhermefn1011/Dio/main/JavaScript/Portfolio/data/imgs/html-white.svg"
+          "logo": "https://raw.githubusercontent.com/guilhermefn1011/js-development-portfolio/main/data/imgs/html-white.svg"
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/guilhermefn1011/Dio/main/JavaScript/Portfolio/data/imgs/css-white.svg"
+          "logo": "https://raw.githubusercontent.com/guilhermefn1011/js-development-portfolio/main/data/imgs/css-white.svg"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/guilhermefn1011/Dio/main/JavaScript/Portfolio/data/imgs/js-white.svg"
+          "logo": "https://raw.githubusercontent.com/guilhermefn1011/js-development-portfolio/main/data/imgs/js-white.svg"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/guilhermefn1011/Dio/main/JavaScript/Portfolio/data/imgs/react-white.svg"
+          "logo": "https://raw.githubusercontent.com/guilhermefn1011/js-development-portfolio/main/data/imgs/react-white.svg"
         },
         {
           "name": "Github",
-          "logo": "https://raw.githubusercontent.com/guilhermefn1011/Dio/main/JavaScript/Portfolio/data/imgs/github-white.svg"
+          "logo": "https://raw.githubusercontent.com/guilhermefn1011/js-development-portfolio/main/data/imgs/github-white.svg"
         },
         {
           "name": "MySql",
-          "logo": "https://raw.githubusercontent.com/guilhermefn1011/Dio/main/JavaScript/Portfolio/data/imgs/mysql-white.svg"
+          "logo": "https://raw.githubusercontent.com/guilhermefn1011/js-development-portfolio/main/data/imgs/mysql-white.svg"
         }
       ],
       "softSkills": [
@@ -48,12 +48,12 @@
     "portfolio": [
       {
         "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "url": "https://github.com/guilhermefn1011/js-development-pokedex",
         "github": true
       },
       {
         "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "url": "https://github.com/guilhermefn1011/js-development-portfolio",
         "github": true
       }
     ],
