@@ -59,14 +59,14 @@
     ],
      "professionalExperience": [
       {
-        "name": "Analista de Suporte Jr - Listo",
-        "period": "Jul 2021 - Mai 2022",
-        "description": "Solucionar incidentes, propor otimizações nos processos, realizar documentações de procedimentos e processos, administrar acessos de segurança e rede (AD) e admnistrar iventário de TI."
-      },
-      {
         "name": "Trainee - Safra",
         "period": "Jun 2022 - Jan 2023",
         "description": "Realizar entregas de correções e atualizações de sistemas de terceiros em nosso ambiente, conduzir reuniões de entregas com o time de Negócio, desenvolvimento de projeto utilizando container, VueJs, Angular e Python."
+      },
+      {
+        "name": "Analista de Suporte Jr - Listo",
+        "period": "Jul 2021 - Mai 2022",
+        "description": "Solucionar incidentes, propor otimizações nos processos, realizar documentações de procedimentos e processos, administrar acessos de segurança e rede (AD) e admnistrar iventário de TI."
       },
       {
         "name": "Administrador - Outlet Feiras e Eventos LTDA",
