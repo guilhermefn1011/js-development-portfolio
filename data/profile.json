@@ -47,13 +47,18 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+        "name": "Criação de uma Pokedex",
         "url": "https://github.com/guilhermefn1011/js-development-pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "name": "Criação de uma página de portfolio",
         "url": "https://github.com/guilhermefn1011/js-development-portfolio",
+        "github": true
+      },
+      {
+        "name": "Criação de um buscador de perfil e portifólio do github",
+        "url": "https://github.com/guilhermefn1011/react-development-gitfind",
         "github": true
       }
     ],
